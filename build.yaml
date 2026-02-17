@@ -7,6 +7,8 @@
 #
 # board: [ "nice_nano" ]
 # shield: [ "corne_left", "corne_right" ]
+board: ["nice_nano"]
+shield: ["lima"]
 # include:
 #   - board: bdn9_rev2
 #   - board: nice_nano
@@ -18,3 +20,4 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+
