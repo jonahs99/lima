@@ -41,7 +41,7 @@
             bindings = <
                 &kp GRAVE &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT &kp CARET &kp STAR  &kp LPAR &kp RPAR &kp BSLH &trans
                 &trans    &trans   &trans &trans   &trans   &kp AMPS  &trans    &kp MINUS &kp LBKT &kp RBKT &trans   &trans
-                &trans    &trans   &trans &trans   &trans   &trans    &trans    &kp PLUS  &trans   &trans   &trans   &trans
+                &trans    &trans   &trans &trans   &trans   &trans    &trans    &kp EQUAL &trans   &trans   &trans   &trans
                 &trans    &trans   &trans &trans   &trans   &trans              &trans    &trans   &trans   &trans   &trans
             >;
         };
