@@ -21,3 +21,6 @@
 include:
   - board: nice_nano
     shield: lima
+    # Uncomment for USB debug logging
+    snippet: zmk-usb-logging
+
